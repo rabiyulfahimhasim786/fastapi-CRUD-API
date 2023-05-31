@@ -26,3 +26,9 @@ http://127.0.0.1:8000/todos/<todoItemID>
 ```
 
 For further details, you can refer to <a href="http://127.0.0.1:8000/docs">http://127.0.0.1:8000/docs</a> after starting the server. It will give you an auto generated and very detailed documentation.
+
+# Refereaances
+
+```
+https://sqlmodel.tiangolo.com/tutorial/fastapi/limit-and-offset/
+```
